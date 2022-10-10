@@ -192,6 +192,7 @@
 
 .aboutimage img {
     height: 55vh;
+    width: auto;
     margin-right: 20px;
     margin-bottom: 10px;
 }
