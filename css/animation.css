@@ -446,3 +446,127 @@ svg circle:nth-child(2) {
     }
    
 }
+
+@media (min-width: 1516px) and (max-width: 3000px) {
+    .hello {
+        font-size: 5.5em;
+    }
+
+    .name {
+        font-size: 5em;
+    }
+
+    .moreabout {
+        font-size: 2.2em;
+    }
+
+    .about h2 {
+        font-size: 50px;
+    }
+
+    @keyframes typing {
+
+        0%,
+        90%,
+        100% {
+            width: 0;
+        }
+
+        30%,
+        60% {
+            width: 650px;
+        }
+    }
+    .buttons a {
+        font-size: 2rem;
+        padding: 11px 33px;
+    }
+
+    .devPic {
+        width: 525px;
+        height: 525px;
+    }
+    .toggle {
+        width: 82px;
+        height: 88px;
+    }
+    .sidebar ul li a {
+        font-size: 3em;
+    }
+    .aboutme {
+        font-size: 5.5em;
+    }
+    .aboutInfo h2 {
+        font-size: 3.5em;
+    }
+    .aboutInfo p {
+        font-size: 30px;
+    }
+    .aboutInfo h3 {
+        line-height: 35px;
+        font-size: 27px;
+    }
+    .aboutimage img {
+        height: 71vh;
+    }
+    .EducationSection .eduname {
+        font-size: 5.5rem;
+    }
+    .EducationSection .mark {
+        font-size: 31px;
+    }
+    .EducationSection .eduhistory .qualify h3 {
+        font-size: 38px;
+    }
+    .EducationSection .eduhistory .qualify h2 {
+        font-size: 27px;
+    }
+    .EducationSection .eduhistory .qualify h4 {
+        font-size: 26px;
+    }
+    .EducationSection .mark h3 {
+        font-size: 26px;
+    }
+    .EducationSection .eduhistory .qualify {
+    padding: 32px 80px;
+}
+.skillname {
+    font-size: 5.5rem;
+}
+.text {
+    font-size: 2em;
+}
+.percent .numbers h2 {
+    font-size: 2.5em;
+}
+.skillsection .card {
+    width: 318px;
+    height: 394px;
+}
+.skill-container {
+    min-height: 83vh;
+}
+.projectSection .proname {
+    font-size: 5.5rem;
+}
+.project-container .group {
+    width: 709px;
+    height: 400px;
+    margin: 20px;
+}
+.contactSection .contactheading span {
+    font-size: 5.5rem;
+}
+.contactSection .contactheading {
+    font-size: 5.5rem;
+}
+.contactSection .contactform .contname {
+    font-size: 24px;
+}
+.contactSection .contactform {
+    font-size: 24px;
+}
+.contactSection .contactform input {
+    width: 642px;
+}
+}
