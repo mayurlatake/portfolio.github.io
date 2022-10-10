@@ -457,7 +457,7 @@ svg circle:nth-child(2) {
     }
 
     .moreabout {
-        font-size: 2.2em;
+        font-size: 2em;
     }
 
     .about h2 {
@@ -478,7 +478,7 @@ svg circle:nth-child(2) {
         }
     }
     .buttons a {
-        font-size: 2rem;
+        font-size: 1.5em;
         padding: 11px 33px;
     }
 
@@ -500,14 +500,14 @@ svg circle:nth-child(2) {
         font-size: 3.5em;
     }
     .aboutInfo p {
-        font-size: 30px;
+        font-size: 25px;
     }
     .aboutInfo h3 {
         line-height: 35px;
-        font-size: 27px;
+        font-size: 23px;
     }
     .aboutimage img {
-        height: 71vh;
+        height: 65vh;
     }
     .EducationSection .eduname {
         font-size: 5.5rem;
@@ -552,7 +552,7 @@ svg circle:nth-child(2) {
 .project-container .group {
     width: 709px;
     height: 400px;
-    margin: 20px;
+    margin: 10px;
 }
 .contactSection .contactheading span {
     font-size: 5.5rem;
