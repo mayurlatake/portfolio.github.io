@@ -352,6 +352,11 @@ svg circle:nth-child(2) {
         top: 17px;
         right: 17px;
     }
+    .aboutimage img {
+    height: 55vh;
+    margin-right: 20px;
+    margin-bottom: 10px:
+}
 }
 
 @media (min-width: 426px) and (max-width: 768px) {
