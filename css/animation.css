@@ -418,7 +418,7 @@ svg circle:nth-child(2) {
     }
    
 }
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 769px) and (max-width: 1440px) {
     .infocontainer {
         margin: 46px auto;
         flex-wrap: nowrap;
@@ -447,7 +447,7 @@ svg circle:nth-child(2) {
    
 }
 
-@media (min-width: 1516px) and (max-width: 3000px) {
+@media (min-width: 1441px) and (max-width: 3000px) {
     .hello {
         font-size: 5.5em;
     }
