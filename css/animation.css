@@ -251,11 +251,7 @@ svg circle:nth-child(2) {
     transition: 0.5s;
     pointer-events: none;
 }
-@media (max-width: 340px) {
-    body{
-        width: 104%;
-    }
-}
+
 
 @media (max-width: 425px) {
     .about h2 {
@@ -283,7 +279,9 @@ svg circle:nth-child(2) {
     .infocontainer {
         position: static; 
     }
-
+#particles-js {
+    min-height:10px
+}
     .hello {
         font-size: 2.5em;
     }
